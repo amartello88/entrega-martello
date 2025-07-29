@@ -59,7 +59,7 @@ nav ul li a:hover {
   display: flex;
   justify-content: left;
   margin: 20px;
-  background-color: blue;
+  background-color:aqua;
 }
 
 .about img {
@@ -116,6 +116,7 @@ footer {
   text-align: center;
   line-height: 40px;
   margin: 20px;
+  background-color: aqua;
 }
 
 
